@@ -1,0 +1,16 @@
+.display-image{
+    height:300px;
+    width:220px;
+}
+
+.each-list-item{
+    height:420px;
+    width:220px;
+    border:1px solid rgb(64, 63, 63);
+    margin:10px;
+}
+
+.each-list-item p{
+    text-decoration: none;
+    color:white;
+}

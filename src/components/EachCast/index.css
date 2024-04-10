@@ -1,0 +1,15 @@
+.poster-image-cast{
+    height:200px;
+    width:140px;
+}
+
+.each-cast-item{
+    height:300px;
+    width:140px;
+    margin:10px;
+}
+
+.each-cast-item p{
+    color:white;
+    font-size:12px;
+}

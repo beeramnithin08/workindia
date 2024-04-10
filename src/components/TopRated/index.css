@@ -1,0 +1,9 @@
+.moviesList-container{
+    list-style-type: none;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding-left:50px;
+    padding-right: 50px;
+   
+}

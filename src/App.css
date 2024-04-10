@@ -7,6 +7,14 @@
   pointer-events: none;
 }
 
+.container-holding-movies{
+  background-color: #2A2B2C;
+  margin-top:0px;
+  min-height:100vh;
+  padding-top:70px;
+  
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
